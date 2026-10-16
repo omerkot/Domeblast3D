@@ -1,0 +1,16 @@
+# Build output (native binaries, packages, web site)
+/build/
+/dist/
+node_modules/
+
+# Generated native PCM soundtrack caches (make music-cache)
+assets/music-cache/
+
+# Runtime state, captures and logs
+save.dat
+*.log
+*.ppm
+/core
+/core.*
+__pycache__/
+.DS_Store

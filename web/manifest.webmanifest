@@ -1,0 +1,11 @@
+{
+  "id": "./",
+  "name": "Domeblast 3D",
+  "short_name": "Domeblast",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "background_color": "#060b12",
+  "theme_color": "#060b12",
+  "icons": [{"src": "./app-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}]
+}

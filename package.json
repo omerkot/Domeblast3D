@@ -1,0 +1,10 @@
+{
+  "name": "domeblast-3d-web",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "bash tools/build/build-web.sh",
+    "package:web": "npm run build && python3 tools/package/package-web.py"
+  }
+}
